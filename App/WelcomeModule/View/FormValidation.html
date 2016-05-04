@@ -16,20 +16,23 @@
         <a class="navbar-brand"
            href="/algo.html">
             Primer form Boostrap + AngularJs.
-
         </a>
         </div>
     </div>
 </nav>
 
-<div class="container main-content">
-    <form name="theForm">
+<div class="container main-content"
+ng-controller="LoginFormController">
+    <form name="theForm" ng-submit="onSubmit();">
         <div class="form-group">
 
             <label for="name">Tu nombre</label>
             <input type="text"
                     class="form-control"
                     id="name">
+        </div>
+        <div class="form-group">
+            <button class="btn btn-primary" type="submit">Registrar</button>
         </div>
     </form>
 </div>
