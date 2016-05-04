@@ -1,5 +1,6 @@
 <!DOCTYPE html>
-<html lang="en">
+<!--se asocia el modulo a la vista -->
+<html lang="en" ng-app="LoginFormModule">
 <head>
     <meta charset="UTF-8">
     <title>Ejercicio 1 </title>
@@ -9,13 +10,30 @@
 
 </head>
 <body>
-Genramos barra de tarea conb bostrap
 <nav class="navbar navbar-inverse navbar-fixed-top">
     <div class="container">
+        <div class="navbar-header">
+        <a class="navbar-brand"
+           href="/algo.html">
+            Primer form Boostrap + AngularJs.
 
+        </a>
+        </div>
     </div>
-
 </nav>
+
+<div class="container main-content">
+    <form name="theForm">
+        <div class="form-group">
+
+            <label for="name">Tu nombre</label>
+            <input type="text"
+                    class="form-control"
+                    id="name">
+        </div>
+    </form>
+</div>
+
 <script src="../../../bower_components/angular/angular.min.js"></script>
 <script src="../controller/FormValidationController.js"></script>
 

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15fb88a8-bed7-491c-a3c5-659632870e0b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/WelcomeModule/View/FormValidation.html" afterPath="$PROJECT_DIR$/App/WelcomeModule/View/FormValidation.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js" afterPath="$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js" />
     </list>
     <ignored path="Unidad2Repositorio.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,22 +35,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FormValidation.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FormValidation.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/WelcomeModule/View/FormValidation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31694916">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FormValidationController.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FormValidationController.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.22077923">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#43#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,8 +75,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/App/share/main.css" />
-        <option value="$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js" />
         <option value="$PROJECT_DIR$/App/WelcomeModule/View/FormValidation.html" />
+        <option value="$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js" />
       </list>
     </option>
   </component>
@@ -201,6 +205,8 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/App/WelcomeModule/View/FormValidation.html" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -330,19 +336,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js">
+    <entry file="file://$PROJECT_DIR$/App/WelcomeModule/View/FormValidation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/WelcomeModule/View/FormValidation.html">
+    <entry file="file://$PROJECT_DIR$/App/WelcomeModule/controller/FormValidationController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31694916">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.22077923">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
